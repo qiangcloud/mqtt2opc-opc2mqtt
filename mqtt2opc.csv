@@ -1,0 +1,3 @@
+topic,nodeid
+srm/mqtt2opc/INT_NUM,"ns=3;s=""OPC2MQTT"".""INT_NUM"""
+srm/mqtt2opc/B_RUN,"ns=3;s=""OPC2MQTT"".""B_RUN"""
